@@ -1,11 +1,12 @@
 
-const Roupas_component = () => {
+const Roupas_component = (props) => {
 
     return(
         <div>
-             <div>Teste</div>
+             <div>ANa</div>
         </div>
     )
 }
 
+// pegar os valores da api e imprimir
 export default Roupas_component
